@@ -1,0 +1,18 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  --text-color: #002140;
+  --bg: #ace8d3;
+  overflow-x: hidden;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.wrapper {
+  max-width: 400px;
+}
